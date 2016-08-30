@@ -2,9 +2,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>bassman</groupId>
-  <artifactId>hello-world-cli</artifactId>
+  <artifactId>music-analyzer-cli</artifactId>
   <version>0.1.0</version>
-  <name>Hello World CLI</name>
+  <name>Music Analyzer CLI</name>
   <build>
     <plugins>
       <plugin>
@@ -12,7 +12,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>HelloWorldCLI</mainClass>
+              <mainClass>MusicAnalyzerCLI</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
@@ -31,4 +31,12 @@
       </plugin>
     </plugins>
   </build>
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>3.8.1</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
 </project>

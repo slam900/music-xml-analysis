@@ -1,0 +1,131 @@
+[01;34m<?xml[m [32mversion[m[31m=[m[31m"1.0"[m [32mencoding[m[31m=[m[31m"UTF-8"[m[01;34m?>[m
+[01;34m<!DOCTYPE[m [32mscore[m-[32mpartwise[m [32mPUBLIC[m [31m"-//Recordare//DTD MusicXML 3.0 Partwise//EN"[m [31m"./partwise.dtd"[m[01;34m>[m
+[01;34m<score-partwise>[m
+  [01;34m<name>[mSam[01;34m</name>[m
+  [01;34m<identification>[m
+    [01;34m<encoding>[m
+      [01;34m<software>[mMuseScore 2.0.3[01;34m</software>[m
+      [01;34m<encoding-date>[m2016-08-29[01;34m</encoding-date>[m
+      [01;34m<supports[m [32melement[m[31m=[m[31m"accidental"[m [32mtype[m[31m=[m[31m"yes"[m[01;34m/>[m
+      [01;34m<supports[m [32melement[m[31m=[m[31m"beam"[m [32mtype[m[31m=[m[31m"yes"[m[01;34m/>[m
+      [01;34m<supports[m [32melement[m[31m=[m[31m"print"[m [32mattribute[m[31m=[m[31m"new-page"[m [32mtype[m[31m=[m[31m"yes"[m [32mvalue[m[31m=[m[31m"yes"[m[01;34m/>[m
+      [01;34m<supports[m [32melement[m[31m=[m[31m"print"[m [32mattribute[m[31m=[m[31m"new-system"[m [32mtype[m[31m=[m[31m"yes"[m [32mvalue[m[31m=[m[31m"yes"[m[01;34m/>[m
+      [01;34m<supports[m [32melement[m[31m=[m[31m"stem"[m [32mtype[m[31m=[m[31m"yes"[m[01;34m/>[m
+      [01;34m</encoding>[m
+    [01;34m</identification>[m
+  [01;34m<defaults>[m
+    [01;34m<scaling>[m
+      [01;34m<millimeters>[m7.2319[01;34m</millimeters>[m
+      [01;34m<tenths>[m40[01;34m</tenths>[m
+      [01;34m</scaling>[m
+    [01;34m<page-layout>[m
+      [01;34m<page-height>[m1545[01;34m</page-height>[m
+      [01;34m<page-width>[m1194[01;34m</page-width>[m
+      [01;34m<page-margins[m [32mtype[m[31m=[m[31m"both"[m[01;34m>[m
+        [01;34m<left-margin>[m70[01;34m</left-margin>[m
+        [01;34m<right-margin>[m70[01;34m</right-margin>[m
+        [01;34m<top-margin>[m88[01;34m</top-margin>[m
+        [01;34m<bottom-margin>[m88[01;34m</bottom-margin>[m
+        [01;34m</page-margins>[m
+      [01;34m</page-layout>[m
+    [01;34m<word-font[m [32mfont-family[m[31m=[m[31m"Times New Roman"[m [32mfont-size[m[31m=[m[31m"10.25"[m[01;34m/>[m
+    [01;34m<lyric-font[m [32mfont-family[m[31m=[m[31m"FreeSerif"[m [32mfont-size[m[31m=[m[31m"11"[m[01;34m/>[m
+    [01;34m</defaults>[m
+  [01;34m<part-list>[m
+    [01;34m<score-part[m [32mid[m[31m=[m[31m"P1"[m[01;34m>[m
+      [01;34m<part-name[m [32mprint-object[m[31m=[m[31m"no"[m[01;34m>[mMusicXML Part[01;34m</part-name>[m
+      [01;34m<score-instrument[m [32mid[m[31m=[m[31m"P1-I1"[m[01;34m>[m
+        [01;34m<instrument-name>[mGrand Piano[01;34m</instrument-name>[m
+        [01;34m</score-instrument>[m
+      [01;34m<midi-device[m [32mid[m[31m=[m[31m"P1-I1"[m [32mport[m[31m=[m[31m"1"[m[01;34m></midi-device>[m
+      [01;34m<midi-instrument[m [32mid[m[31m=[m[31m"P1-I1"[m[01;34m>[m
+        [01;34m<midi-channel>[m1[01;34m</midi-channel>[m
+        [01;34m<midi-program>[m1[01;34m</midi-program>[m
+        [01;34m<volume>[m79.5276[01;34m</volume>[m
+        [01;34m<pan>[m0[01;34m</pan>[m
+        [01;34m</midi-instrument>[m
+      [01;34m</score-part>[m
+    [01;34m</part-list>[m
+  [01;34m<part[m [32mid[m[31m=[m[31m"P1"[m[01;34m>[m
+    [01;34m<measure[m [32mnumber[m[31m=[m[31m"1"[m [32mwidth[m[31m=[m[31m"343.21"[m[01;34m>[m
+      [01;34m<print>[m
+        [01;34m<system-layout>[m
+          [01;34m<system-margins>[m
+            [01;34m<left-margin>[m0.00[01;34m</left-margin>[m
+            [01;34m<right-margin>[m710.79[01;34m</right-margin>[m
+            [01;34m</system-margins>[m
+          [01;34m<top-system-distance>[m170.00[01;34m</top-system-distance>[m
+          [01;34m</system-layout>[m
+        [01;34m</print>[m
+      [01;34m<attributes>[m
+        [01;34m<divisions>[m2[01;34m</divisions>[m
+        [01;34m<key>[m
+          [01;34m<fifths>[m0[01;34m</fifths>[m
+          [01;34m</key>[m
+        [01;34m<time>[m
+          [01;34m<beats>[m4[01;34m</beats>[m
+          [01;34m<beat-type>[m4[01;34m</beat-type>[m
+          [01;34m</time>[m
+        [01;34m<clef>[m
+          [01;34m<sign>[mG[01;34m</sign>[m
+          [01;34m<line>[m2[01;34m</line>[m
+          [01;34m</clef>[m
+        [01;34m</attributes>[m
+      [01;34m<note[m [32mdefault-x[m[31m=[m[31m"75.17"[m [32mdefault-y[m[31m=[m[31m"-25.00"[m[01;34m>[m
+        [01;34m<pitch>[m
+          [01;34m<step>[mA[01;34m</step>[m
+          [01;34m<octave>[m4[01;34m</octave>[m
+          [01;34m</pitch>[m
+        [01;34m<duration>[m2[01;34m</duration>[m
+        [01;34m<voice>[m1[01;34m</voice>[m
+        [01;34m<type>[mquarter[01;34m</type>[m
+        [01;34m<stem>[mup[01;34m</stem>[m
+        [01;34m</note>[m
+      [01;34m<note[m [32mdefault-x[m[31m=[m[31m"135.75"[m [32mdefault-y[m[31m=[m[31m"-15.00"[m[01;34m>[m
+        [01;34m<pitch>[m
+          [01;34m<step>[mC[01;34m</step>[m
+          [01;34m<octave>[m5[01;34m</octave>[m
+          [01;34m</pitch>[m
+        [01;34m<duration>[m1[01;34m</duration>[m
+        [01;34m<voice>[m1[01;34m</voice>[m
+        [01;34m<type>[meighth[01;34m</type>[m
+        [01;34m<stem>[mdown[01;34m</stem>[m
+        [01;34m<beam[m [32mnumber[m[31m=[m[31m"1"[m[01;34m>[mbegin[01;34m</beam>[m
+        [01;34m</note>[m
+      [01;34m<note[m [32mdefault-x[m[31m=[m[31m"173.60"[m [32mdefault-y[m[31m=[m[31m"-20.00"[m[01;34m>[m
+        [01;34m<pitch>[m
+          [01;34m<step>[mB[01;34m</step>[m
+          [01;34m<octave>[m4[01;34m</octave>[m
+          [01;34m</pitch>[m
+        [01;34m<duration>[m1[01;34m</duration>[m
+        [01;34m<voice>[m1[01;34m</voice>[m
+        [01;34m<type>[meighth[01;34m</type>[m
+        [01;34m<stem>[mdown[01;34m</stem>[m
+        [01;34m<beam[m [32mnumber[m[31m=[m[31m"1"[m[01;34m>[mend[01;34m</beam>[m
+        [01;34m</note>[m
+      [01;34m<note[m [32mdefault-x[m[31m=[m[31m"211.46"[m [32mdefault-y[m[31m=[m[31m"-15.00"[m[01;34m>[m
+        [01;34m<pitch>[m
+          [01;34m<step>[mC[01;34m</step>[m
+          [01;34m<octave>[m5[01;34m</octave>[m
+          [01;34m</pitch>[m
+        [01;34m<duration>[m2[01;34m</duration>[m
+        [01;34m<voice>[m1[01;34m</voice>[m
+        [01;34m<type>[mquarter[01;34m</type>[m
+        [01;34m<stem>[mdown[01;34m</stem>[m
+        [01;34m</note>[m
+      [01;34m<note[m [32mdefault-x[m[31m=[m[31m"272.03"[m [32mdefault-y[m[31m=[m[31m"-25.00"[m[01;34m>[m
+        [01;34m<pitch>[m
+          [01;34m<step>[mA[01;34m</step>[m
+          [01;34m<octave>[m4[01;34m</octave>[m
+          [01;34m</pitch>[m
+        [01;34m<duration>[m2[01;34m</duration>[m
+        [01;34m<voice>[m1[01;34m</voice>[m
+        [01;34m<type>[mquarter[01;34m</type>[m
+        [01;34m<stem>[mup[01;34m</stem>[m
+        [01;34m</note>[m
+      [01;34m<barline[m [32mlocation[m[31m=[m[31m"right"[m[01;34m>[m
+        [01;34m<bar-style>[mlight-heavy[01;34m</bar-style>[m
+        [01;34m</barline>[m
+      [01;34m</measure>[m
+    [01;34m</part>[m
+  [01;34m</score-partwise>[m
